@@ -6,7 +6,7 @@ The hierarchical model of *intrinsic and extrinsic motivation* (HMIEM) is a fram
 
 ![SDT Motivation Layer represenation](images//MotLayer.png)
 
-##Project content 
+## Project content 
 
 In this repository you will find the GNU Octave implementation of the framework proposed for the simulations and the field case studies.
 
