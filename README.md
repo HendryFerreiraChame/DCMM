@@ -12,7 +12,7 @@ In this repository you will find the GNU Octave implementation of the framework 
 
 ## Instructions
 
-All that is required to do is to run the main scripts *cs1.m*, *cs2.m*, and *cs3.m* to execute the three case studies reported in the paper. Each of these scripts are self contained, so the complete model parametrization can be observed. Auxilliary scripts are provided to set the model weight matrices analitically, they are saved in folder named *parameters*. The plots generated are saved in *eps* format in the folder named *plots*, data from plots is also sabed in *csv* format. Data from the SDT measures considered in CS3 are located in folder named *measures*.
+All that is required to do is to run the main scripts *cs1.m*, *cs2.m*, and *cs3.m* to execute the three case studies reported in the paper. Each of these scripts are self contained, so the complete model parametrization can be observed. Auxilliary scripts are provided to set the model weight matrices analitically, they are saved in the folder named *parameters*. The plots generated are saved in *eps* format in the folder named *plots*, data from plots is also saved in *csv* format. Data from the SDT measures considered in CS3 are located in the folder named *measures*.
 
 The algorithms were developed and tested in GNU Octave 4.0.2, running in the operative system Ubuntu 16.04. 
 
